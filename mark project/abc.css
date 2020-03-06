@@ -1,0 +1,260 @@
+.bg-light {
+    background-color: #ffc107!important;
+}
+.navbar-brand{
+    font-size: 1.75rem;
+	
+}
+.nav-link{
+	color: blue;
+} 
+.navbar-light .navbar-toggler {
+    color: #f8f9fa;
+    }
+ .mr-auto{
+ margin-left:200px;
+ 
+}
+.mr-auto .nav-item {
+	padding-left: 40px;
+}
+.btn-outline-success{
+	background-color: red;
+	border: none;
+}
+.carousel-item{
+	height: auto;
+	height:900px;
+
+}
+.btn-secondary {
+    color: #fff;
+    background-color: red;
+    border: none;
+}
+.btn-secondary{
+	margin-top: -700px;
+	margin-left:200px; 
+}
+.carousel-inner h1{
+	margin-top: -340px;
+	margin-left:200px;
+	color:white;
+
+}
+.carousel-inner p{
+	
+	margin-left:200px;
+	color:white;
+
+
+}
+.btn-dark{
+		margin-left:200px;
+
+}
+.card{
+	margin-top:-1px;
+}
+ .container  .gape{
+ 	padding-top: 20px;
+ }
+ .container  .gape h3{
+ 	color:blue;
+ } 
+.first{
+	padding-top: 20px;
+}
+.first h1{
+	text-align: center;
+	color:blue;
+}
+.first  .img-fluid{
+	padding-top: 20px;
+
+}
+.first .wide{
+	padding-left: 30px;
+		padding-top: 20px;
+}
+.first .wide h6{
+	color:red;
+}
+.second{
+	padding-top: 30px;
+}
+.second  h6{
+	color:red;
+}
+.third{
+	padding-top: 30px;
+}
+.third  h6{
+	color:red;
+}
+.ourplans{
+	padding-top: 50px;
+
+}
+.ourplans h1{
+	text-align: center;
+	color:powderblue;
+}
+.ourplans .bg-info h3{
+	
+	text-align: center;
+	color:blue;
+}
+.ourplans .bg-dark h3{
+	
+	text-align: center;
+	color:white;
+}
+.ourplans .bg-success h3{
+	
+	text-align: center;
+	color:orange;
+}
+.ourplans h4{
+	text-align: center;
+}
+.ourplans p{
+	text-align: center;
+	color:white;
+}
+.ourplans .fa-star{
+	color:white;
+} 
+.fourth{
+	padding-top: 90px;
+}
+.fourth h1{
+	text-align: center;
+	color: blue;
+}
+.fourth .james{
+	height:450px;
+	background-color: orange;
+
+
+}
+.james .rounded-circle{
+	margin-top: 50px;
+	height:140px;
+	width:15%;
+
+
+
+}
+.fourth .james h4 {
+	color:white;
+
+}
+.james  p{
+	color:white;
+}
+
+
+.fifth {
+	padding-top:100px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.fifth .subscribe {
+  background-image: url("def.jpg");
+  
+  height: 340px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+	width: 100%;
+	
+
+	
+}
+
+
+.subscribe h1{
+	text-align: center;
+	padding-top: 50px;
+	color:white;
+}
+.subscribe h2{
+	color:red;
+	text-align: center;
+}
+.subscribe h4{
+	text-align: center;
+	padding-top: 20px;
+	color:white;
+}
+.subscribe p{
+	text-align: center;
+	
+	color:white;
+}
+.subscribe .input-group {
+	width: 50%;
+}
+.input-group-text{
+	background-color: red;
+}
+.six{
+	width: 100%;
+	height:200px;
+	background-color:black;
+	
+}
+.six h1{
+	text-align:center;
+	padding-top:30px;
+	color:white;
+	font-family:sans-serif; 
+
+}
+.six p{
+	text-align: center;
+	color:white;
+}
+.six .icon{
+	font-size: 30px;
+	color:red;
+	padding:8px;
+}
+.six .fa-level-up{
+	color:yellow;
+	float:right;
+	font-size: 30px;
+	margin-top: -25px;
+}
+
+.six{
+	width: 100%;
+	height:200px;
+	background-color:black;
+	
+}
+.six h1{
+	text-align:center;
+	padding-top:30px;
+	color:white;
+	font-family:sans-serif; 
+
+}
+.six p{
+	text-align: center;
+	color:white;
+}
+.six .icon{
+	font-size: 30px;
+	color:red;
+	padding:8px;
+}
+.six .fa-level-up{
+	color:yellow;
+	float:right;
+	font-size: 30px;
+	margin-top: -25px;
+}
